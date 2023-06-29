@@ -1,4 +1,12 @@
 {
-  "recommendations": ["dbaeumer.vscode-eslint", "unifiedjs.vscode-mdx"],
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "steoates.autoimport",
+    "johnreemar.vscode-qwik-snippets",
+    "raiondesu.qwik-city-link-autocomplete",
+    "quicktype.quicktype"
+  ],
   "unwantedRecommendations": []
 }
