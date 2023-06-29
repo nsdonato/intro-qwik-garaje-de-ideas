@@ -4,6 +4,8 @@ Información sobre el challenge:
 
 https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca
 
+Slides del directo: https://docs.google.com/presentation/d/1b0V2tzS9D4kIozZzCyARdVZ1HgFmOGiI_fhYPs1d_0o/edit?usp=sharing
+
 ### Resumen:
 
 Crear una aplicación de búsqueda países, en este link está el challenge y los archivos con los assets para descargar.
